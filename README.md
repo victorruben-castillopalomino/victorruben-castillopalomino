@@ -12,13 +12,13 @@ Estudiante de primer año de **Desarrollo de Aplicaciones Multiplataforma (DAM)*
   <img src="https://skillicons.dev" /> 
 </p>
 <p>
-   <img src="[https://skillicons.dev](https://simpleicons.org/icons/python.svg)" />
+   <img src="[[https://skillicons.dev](https://simpleicons.org/icons/python.svg)](https://simpleicons.org/icons/python.svg)" />
 </p>
 <p>
-  <img src="[https://skillicons.dev](https://simpleicons.org/icons/mysql.svg)" />
+  <img src="[[https://skillicons.dev](https://simpleicons.org/icons/mysql.svg)](https://simpleicons.org/icons/mysql.svg)" />
 </p>
 <p>
-  <img src="[https://skillicons.dev](https://simpleicons.org/icons/git.svg)" />
+  <img src="[[https://skillicons.dev](https://simpleicons.org/icons/git.svg)](https://simpleicons.org/icons/git.svg)" />
 </p>
 
 - **Lenguajes:** Java, Python

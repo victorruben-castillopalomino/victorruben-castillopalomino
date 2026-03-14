@@ -12,7 +12,7 @@ Estudiante de primer año de **Desarrollo de Aplicaciones Multiplataforma (DAM)*
   <img src="https://skillicons.dev" /> 
 </p>
 <p>
-   <img src="[[https://skillicons.dev](https://simpleicons.org/icons/python.svg)](https://simpleicons.org/icons/python.svg)" />
+   <img src="[[[https://skillicons.dev](https://simpleicons.org/icons/python.svg)](https://simpleicons.org/icons/python.svg)](https://simpleicons.org/?modal=icon&q=git)" />
 </p>
 <p>
   <img src="[[https://skillicons.dev](https://simpleicons.org/icons/mysql.svg)](https://simpleicons.org/icons/mysql.svg)" />

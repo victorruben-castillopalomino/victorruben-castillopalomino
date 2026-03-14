@@ -1,6 +1,7 @@
 # ¡Hola, soy Víctor Rubén Castillo Palomino! 
 
-Estudiante de primer año de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en LinkiFP,me encanta la tecnología.
+Estudiante de primer año de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en LinkiFP, absorbiendo 
+toda la información para aprender y ser un gran progrmador.
 
 ---
 

@@ -1,7 +1,7 @@
 # ¡Hola, soy Víctor Rubén Castillo Palomino! 
 
 Estudiante de primer año de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en LinkiFP, absorbiendo 
-toda la información para aprender y ser un gran progrmador.
+toda la información para aprender y ser un gran programador.
 
 ---
 
@@ -10,7 +10,7 @@ toda la información para aprender y ser un gran progrmador.
 <p align="left">
   <!-- Añade iconos de tecnologías que usas (busca en https://simpleicons.org) -->
   <!-- <img src="https://skillicons.dev" /> -->
-  <img src="https://simpleicons.org/?modal=icon&q=git" />
+  <img src="[https://simpleicons.org/?modal=icon&q=git](https://simpleicons.org/icons/git.svg)" />
 </p>
 
 - **Lenguajes:** Java, Python

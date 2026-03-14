@@ -10,11 +10,11 @@ toda la información para aprender y ser un gran programador.
 <p align="left">
   <!-- Añade iconos de tecnologías que usas (busca en https://simpleicons.org) -->
   <!-- <img src="https://skillicons.dev" /> -->
-  <img src="[https://simpleicons.org/?modal=icon&q=git](https://simpleicons.org/icons/git.svg)"  whigth="50" height="50"/>
+
 </p>
 
 - **Lenguajes:** Java, Python
-- **Entornos/Frameworks:** Swing/JavaFX
+- **Entornos/Frameworks:** NetBeans, Swing/JavaFX, 
 - **Bases de Datos:**  MySQL, MongoDB
 - **Herramientas:** Git, GitHub
 

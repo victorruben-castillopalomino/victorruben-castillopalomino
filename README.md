@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋, Soy Víctor 👨‍💻/h1>
+<h1 align="center">Hola 👋, Soy Víctor 👨‍💻</h1>
 <h3 align="center">Estudiante de primer año de Desarrollo de Aplicaciones Multiplataforma (DAM) en LinkiFP, absorbiendo toda la información para aprender y ser un gran programador.</h3>
 
 <h3 align="left">Mis redes</h3>

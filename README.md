@@ -18,7 +18,7 @@
   bases_de_datos: [MySQL];
   herramientas: [Git, GitHub, VSCode, NetBeans];
 
-  aprendiendo_actualmente: [Java, Desarrollo Backend,  Base de Datos];
+  aprendiendo_actualmente: [Java, Desarrollo Backend, Base de Datos];
 }
 
 .reto {

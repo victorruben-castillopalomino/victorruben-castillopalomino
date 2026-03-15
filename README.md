@@ -14,11 +14,11 @@
   nombre: "Víctor Rubén";
   rol: "DAM Estudiante | Junior Developer";
 
-  lenguajes: [Java, Python, HTML, CSS];
-  bases_de_datos: [MySQL];
-  herramientas: [Git, GitHub, VSCode, NetBeans];
+  lenguajes: "Java, Python, HTML, CSS";
+  bases_de_datos: "MySQL, MongoDB, MariaDB";
+  herramientas: "Git, GitHub, VSCode, NetBeans";
 
-  aprendiendo_actualmente: [Java, Desarrollo Backend, Base de Datos];
+  aprendiendo_actualmente: "Java, Desarrollo Backend, Base de Datos";
 }
 
 .reto {

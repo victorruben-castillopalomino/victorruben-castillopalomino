@@ -1,19 +1,29 @@
+<h2> Hola, Soy Víctor Rubén! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGV5MzBtZzZrbWdqdjRnaGNtd3RzYjJtbTQ5eDV1YjluZjR1eHR4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1NYkJ0wTvncdXV5dN5/giphy.gif" width="50"></h2>
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHR1bXd0Mzd2amwzbmdncmtrazBzeTl2azh1amNhdm03cDBxZWJ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dYyRWrXb9OpfYbhNY4/giphy.gif" width="230">
+<p><em>Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) <a href="https://linkiafp.es/?utm_source=google&utm_medium=cpc&utm_campaign=Search_bofu_ON_ES_AO_Pros_Brand_Generic&tc_alt=179558&gad_source=1&gad_campaignid=19898171027&gbraid=0AAAAADx87sJFHX1G07OnVwp9oAZ6l_Pyq&gclid=CjwKCAjwjtTNBhB0EiwAuswYht2-HniuC2CRk6q8Km12FFz_ZDFN8h83f5dKZpVzvXS5ZN_SD-Fq7xoCOPMQAvD_BwE">Linkia FP</a> 
+</em></p>
 
-<h1 align="center">Hola 👋, Soy Víctor 👨‍💻</h1>
-<h3 align="center">Estudiante de primer año de Desarrollo de Aplicaciones Multiplataforma (DAM) en LinkiFP, absorbiendo toda la información para aprender y ser un gran programador.</h3>
+[![Linkedin: victorrubencastillopalomino](https://img.shields.io/badge/-victorrubencastillopalomino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorrubencastillopalomino/)](https://www.linkedin.com/in/victorrubencastillopalomino/)
+[![GitHub victorruben-castillopalomino](https://img.shields.io/github/followers/victorruben-castillopalomino?label=follow&style=social)](https://github.com/victorruben-castillopalomino)
 
-<h3 align="left">Mis redes</h3>
-<p align="left">
-<a href="https://linkedin.com/in/victorrubencastillopalomino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorrubencastillopalomino" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Tecnologías y Herramientas</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXg5c2t6bzBvOGdtdXlqYWxsbjVjNTBlanR0cHBqcnU4bGhpd3VpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p7vNNJJla6PuX6t4T2/giphy.gif" width="50"> Algo sobre mi...  
 
-- **Lenguajes:** Java, Python
-- **Entornos/Frameworks:** NetBeans, Swing/JavaFX, 
-- **Bases de Datos:**  MySQL, MongoDB
-- **Herramientas:** Git, GitHub
+```css
+.victor {
+  pronouns: he/him;
+  role: "DAM Student | Junior Developer";
+  code: [Java, Python, HTML, CSS];
+  databases: [MySQL];
+  tools: [Git, GitHub, VSCode, NetBeans];
+  currently_learning: [Java, Software Development, Databases];
+}
 
----
-<p align="center"><i>¡Gracias por visitar mi perfil!</i></p>
+.challenge {
+  goal: "Improve my programming skills and build projects while studying DAM";
+}
+```
+
+<em><b>¡Gracias por visitar mi perfil!</b> :)</em></br>
+<img align='center' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxvbGtzMTZvNWZxczVlc3d5Zmg1c3c2MHpuc2NtODlldDFreHoxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/58FpXQtlrzvHYegbwH/giphy.gif" width="50" >
+

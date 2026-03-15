@@ -11,16 +11,18 @@
 
 ```css
 .victor {
-  pronouns: he/him;
-  role: "DAM Student | Junior Developer";
-  code: [Java, Python, HTML, CSS];
-  databases: [MySQL];
-  tools: [Git, GitHub, VSCode, NetBeans];
-  currently_learning: [Java, Software Development, Databases];
+  nombre: "Víctor Rubén";
+  rol: "DAM Estudiante | Junior Developer";
+
+  lenguajes: [Java, Python, HTML, CSS];
+  bases_de_datos: [MySQL];
+  herramientas: [Git, GitHub, VSCode, NetBeans];
+
+  aprendiendo_actualmente: [Java, Desarrollo Backend,  Base de Datos];
 }
 
-.challenge {
-  goal: "Improve my programming skills and build projects while studying DAM";
+.reto {
+  objetivo: "Seguir aprendiendo y construyendo proyectos mientras estudio DAM";
 }
 ```
 
